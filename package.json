@@ -1,0 +1,21 @@
+{
+    "name": "hackerman",
+    "displayName": "Hackerman",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hackerman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hackerman-color-theme.json"
+            }
+        ]
+    }
+}
