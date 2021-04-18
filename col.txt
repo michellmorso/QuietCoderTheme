@@ -46,3 +46,28 @@ C2FF5C
 FF428E
 29FFAE
 D336FF
+
+
+---- string
+126E5B
+259AB3
+
+
+--- variable
+E63C80
+
+
+97E6D7
+
+FFC66D
+
+
+
+main : B4DAE9
+
+d5358f
+
+
+VARS ----------
+E5FCA6
+B3E27C
