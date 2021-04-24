@@ -71,3 +71,7 @@ d5358f
 VARS ----------
 E5FCA6
 B3E27C
+
+
+cd ~/.vscode/extensions
+open `pwd` 
